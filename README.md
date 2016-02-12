@@ -1,10 +1,10 @@
 # preload-img [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url]
 
-[travis-image]: https://img.shields.io/travis/feross/preload-img.svg?style=flat
+[travis-image]: https://img.shields.io/travis/feross/preload-img/master.svg
 [travis-url]: https://travis-ci.org/feross/preload-img
-[npm-image]: https://img.shields.io/npm/v/preload-img.svg?style=flat
+[npm-image]: https://img.shields.io/npm/v/preload-img.svg
 [npm-url]: https://npmjs.org/package/preload-img
-[downloads-image]: https://img.shields.io/npm/dm/preload-img.svg?style=flat
+[downloads-image]: https://img.shields.io/npm/dm/preload-img.svg
 [downloads-url]: https://npmjs.org/package/preload-img
 
 ### Preload an image on a webpage
