@@ -12,7 +12,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "standard": "^6.0.5"
+    "standard": "^7.0.0"
   },
   "homepage": "https://github.com/feross/preload-img",
   "keywords": [
